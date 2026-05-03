@@ -1,0 +1,10 @@
+.App {
+  font-family: Arial, sans-serif;
+  min-height: 100vh;
+}
+
+.contenu {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
